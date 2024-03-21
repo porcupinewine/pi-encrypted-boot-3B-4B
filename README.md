@@ -1,4 +1,4 @@
-# Raspberry Pi Encrypted Boot with SSH fpr 3B & 4B
+# Raspberry Pi Encrypted Boot with SSH for 3B & 4B
 
 > Source - https://github.com/ViRb3/pi-encrypted-boot-ssh/tree/8044e5036f2218146a6be443f480f289d860944a
 
